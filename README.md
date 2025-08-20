@@ -28,6 +28,7 @@ Todo o material teórico, guias de configuração de ambiente, trilha de aprendi
 <h3><a href="https://github.com/gui-ccr/grupo-estudo-cpp/wiki">➡️ Comece a estudar pela Wiki agora!</a></h3>
 
 </div>
+
 ---
 
 ## ✅ Guia Rápido para Participar
