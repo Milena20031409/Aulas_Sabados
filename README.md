@@ -9,8 +9,7 @@
 <img src="https://img.shields.io/badge/Linguagem-C++-00599C?style=plastic&logo=cplusplus&logoColor=white" alt="C++">
 <img src="https://img.shields.io/badge/Nível-Iniciante%20ao%20Avançado-blue?style=plastic" alt="Nível">
 <img src="https://img.shields.io/github/issues/gui-ccr/Exercicios-Resolvidos-CPP--Para-Iniciantes?style=plastic&logo=github" alt="Issues Abertas">
-<img src="https://img.shields.io/github/license/gui-ccr/Exercicios-Resolvidos-CPP--Para-Iniciantes?style=plastic&color=green" alt="License MIT">
-
+<img src="https://img.shields.io/badge/License-MIT-green?style=plastic" alt="License MIT">
 </div>
 
 ---
